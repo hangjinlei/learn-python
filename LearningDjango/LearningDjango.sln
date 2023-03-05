@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33209.295
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "BasicProject", "BasicProject\BasicProject.pyproj", "{E199ACF4-88DC-49CF-B20A-061B0C3D8E49}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DjangoWeb", "DjangoWeb\DjangoWeb.pyproj", "{17BBA6EC-928B-4765-8F9C-2E46868A6FBF}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DjangoVideos", "DjangoVideos\DjangoVideos.pyproj", "{A328B5A9-00F7-41A5-929A-C945D7A5980A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E199ACF4-88DC-49CF-B20A-061B0C3D8E49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E199ACF4-88DC-49CF-B20A-061B0C3D8E49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E199ACF4-88DC-49CF-B20A-061B0C3D8E49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E199ACF4-88DC-49CF-B20A-061B0C3D8E49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17BBA6EC-928B-4765-8F9C-2E46868A6FBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17BBA6EC-928B-4765-8F9C-2E46868A6FBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17BBA6EC-928B-4765-8F9C-2E46868A6FBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17BBA6EC-928B-4765-8F9C-2E46868A6FBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A328B5A9-00F7-41A5-929A-C945D7A5980A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A328B5A9-00F7-41A5-929A-C945D7A5980A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A328B5A9-00F7-41A5-929A-C945D7A5980A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A328B5A9-00F7-41A5-929A-C945D7A5980A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3740D031-DF75-4BBF-BCC3-D345EE587540}
+	EndGlobalSection
+EndGlobal
